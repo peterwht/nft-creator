@@ -1,0 +1,17 @@
+.DS_Store
+
+# The cache for chain data in container
+.local
+
+# direnv cache
+.direnv
+
+# Log files
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# JS / TS
+**/node_modules
